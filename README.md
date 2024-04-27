@@ -24,33 +24,6 @@ Install the dependencies using:
 pip install opencv-python moviepy
 ```
 
-## Usage
-
-1. **Clone Repository**:
-
-   ```bash
-   git clone https://github.com/anaumsharif/video-processing.git
-   ```
-
-2. **Navigate to Project Directory**:
-
-   ```bash
-   cd video-processing
-   ```
-
-3. **Run the Scripts**:
-
-   ```bash
-   python video_editor.py
-   ```
-
-   Replace `video_editor.py` with the appropriate script name.
-
-## Scripts Overview
-
-- `video_editor.py`: Script for basic video editing tasks.
-- `frame_extraction.py`: Script to extract frames from a video.
-- `computer_vision.py`: Example script for applying simple computer vision tasks on videos.
 
 ## Examples
 
