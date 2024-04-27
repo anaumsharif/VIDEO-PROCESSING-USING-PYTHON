@@ -29,7 +29,7 @@ pip install opencv-python moviepy
 1. **Clone Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/video-processing.git
+   git clone https://github.com/anaumsharif/video-processing.git
    ```
 
 2. **Navigate to Project Directory**:
